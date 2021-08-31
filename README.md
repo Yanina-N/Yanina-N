@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yanina-N
+- 👀 I’m interested in data Big Data, Data Analysis, Computer Vision, NLP, i.e. Data Science
+- 💞️ I’m looking to collaborate on Data Science/Analysis
+- 📫 You can reach me on e-mail: nikitinayav@yandex.ru
