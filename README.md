@@ -2,4 +2,4 @@
 - 👀 I’m interested in Big Data, Data Analysis, Computer Vision, NLP, i.e. Data Science
 - 📫 You can reach me on e-mail: nikitinayav@yandex.ru
 - 👩‍💻 Here are few projects made during the [Яндекс.Практикум](https://practicum.yandex.ru/data-scientist/) training course:
-- [![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://github.com/Yanina-N/Projects-Yandex_course)
+- [![button](https://cdn.pixabay.com/photo/2017/10/04/14/46/go-sign-2816455_1280.jpg)](https://github.com/Yanina-N/Projects-Yandex_course)
