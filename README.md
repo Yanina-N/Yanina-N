@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Yanina-N
-- 👀 I’m interested in data Big Data, Data Analysis, Computer Vision, NLP, i.e. Data Science
-- 💞️ I’m looking to collaborate on Data Science/Analysis
+- 👋 Hi, I’m Ianina
+- 👀 I’m interested in Big Data, Data Analysis, Computer Vision, NLP, i.e. Data Science
 - 📫 You can reach me on e-mail: nikitinayav@yandex.ru
-- 👩‍💻 Here are few projets made during the Yandex Practicum training
+- 👩‍💻 Here are few projects made during the [Yandex Practicum]((https://praktikum.yandex.ru/profile/data-scientist/) training
