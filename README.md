@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ianina
+- 👋 Hi, I’m Yana
 - 👀 I’m interested in ML, NLP, Computer Vision etc, i.e. Data Science
 - 📫 You can reach me on e-mail: nikitinayav@yandex.ru
 - 👩‍💻 Here are few projects made during the [Яндекс.Практикум](https://practicum.yandex.ru/data-scientist/) training course:
